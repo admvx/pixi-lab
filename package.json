@@ -1,0 +1,19 @@
+{
+  "name": "pixi-lab",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "compile": "webpack --mode production",
+    "start": "webpack serve"
+  },
+  "author": "Adam Vernon",
+  "license": "MIT-0",
+  "devDependencies": {
+    "pixi.js": "^6.2.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
+}
